@@ -1,0 +1,6 @@
+# Ignore MongoDB data files
+data/
+
+node_modules/
+
+uploads/
