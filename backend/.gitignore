@@ -3,4 +3,5 @@ data/
 
 node_modules/
 
-uploads/
+uploads/*
+!uploads/.gitkeep
