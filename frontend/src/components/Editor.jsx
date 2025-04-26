@@ -16,22 +16,20 @@ const modules = {
   ],
 };
 const formats = [
-  [
-    "bold",
-    "italic",
-    "underline",
-    "strike",
-    "align",
-    "list",
-    "indent",
-    "size",
-    "header",
-    "link",
-    "image",
-    "video",
-    "color",
-    "background",
-  ],
+  "bold",
+  "italic",
+  "underline",
+  "strike",
+  "align",
+  "list",
+  "indent",
+  "size",
+  "header",
+  "link",
+  "image",
+  "video",
+  "color",
+  "background",
 ];
 
 function Editor({ value, onChange }) {
